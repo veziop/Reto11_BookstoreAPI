@@ -1,4 +1,4 @@
-# Reto10_HeroAPI
+# Reto11_BookstoreAPI
 
 ## Introduction
 This proyect is a task for a Django Backend Bootcamp at [Geekshubs Accademy](https://geekshubsacademy.com). 
